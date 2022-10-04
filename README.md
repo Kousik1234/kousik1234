@@ -4,8 +4,6 @@
  
 <p align='center'>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=Kousik1234/.Kousik1234/.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
-
 </p>
 <div size='60px'><h2> Hi! My name is Kousik Manik. Thank You for taking the time to view my GitHub Profile :smile:</h2> 
 
