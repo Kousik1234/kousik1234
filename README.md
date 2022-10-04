@@ -16,7 +16,7 @@
 
 - 🌐 Checkout my <a href="https://aquamarine-pika-1d5f91.netlify.app/">Portfolio</a>
 - 📮 Checkout my <a href="https://drive.google.com/file/d/1TSFn9zFxFaV-C5_wXwhc9kxbMlSlJ0gO/view?usp=sharing">Resume</a>
-- 💌 How to reach me [Email](mailto:) :)
+- 💌 How to reach me [Email](mailto:kousikmanik8945@gmail.com) :)
 - 📖 I’m currently learning SpringBoot
 
 
