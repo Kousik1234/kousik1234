@@ -60,11 +60,11 @@
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="getsaurabhpagrut@gmail.com" />
     </a>
     </a>
-    <a href="https://leetcode.com/TridipRong/">
-        <img align="center" src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="https://leetcode.com/TridipRong/" />
+    <a href="https://leetcode.com/kousikmanik1/">
+        <img align="center" src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="https://leetcode.com/kousikmanik1/" />
     </a>
-    <a href="https://www.hackerrank.com/tridiprong">
-        <img align="center" src="https://img.shields.io/badge/hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=darkgreen" alt="https://www.hackerrank.com/tridiprong" />
+    <a href="https://www.hackerrank.com/kousikmanik8945">
+        <img align="center" src="https://img.shields.io/badge/hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=darkgreen" alt="https://www.hackerrank.com/kousikmanik8945" />
     </a>
     
 </p>
