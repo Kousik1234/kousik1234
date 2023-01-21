@@ -42,11 +42,32 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
 
 
-<h2 aling="left"> Connect with me  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"> </h2>
-<a href = '#'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> &nbsp;
-<a href = '#'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href = '#'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
+<!----------------------------------- Social Media Section ------------------------------------>
 
+ 
+ 
+<h2>📱 Let's Connect 📱</h2>
+
+
+<p align="left">
+    <a href="https://www.linkedin.com/in/kousik-manik-3933591ab/" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/tridip-rong-4b11481b2/" />
+    </a>
+    <a href="https://kousik-manik-portfolio.netlify.app/">
+        <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://tridip-rong-portfolio.netlify.app/" />
+    </a>
+    <a title="kousikmanik8945@gmail.com" href="mailto:kousikmanik8945@gmail.com">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="getsaurabhpagrut@gmail.com" />
+    </a>
+    </a>
+    <a href="https://leetcode.com/TridipRong/">
+        <img align="center" src="https://img.shields.io/badge/leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="https://leetcode.com/TridipRong/" />
+    </a>
+    <a href="https://www.hackerrank.com/tridiprong">
+        <img align="center" src="https://img.shields.io/badge/hackerrank-white?style=for-the-badge&logo=hackerrank&logoColor=darkgreen" alt="https://www.hackerrank.com/tridiprong" />
+    </a>
+    
+</p>
 
 
    <h2>Quick Stats about me: <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='25px' height="25px" align="center"></h2>
