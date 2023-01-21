@@ -20,18 +20,26 @@
 - 📖 I’m currently learning SpringBoot
 
 
-<h2 aling="left"> Languages and Tools:   <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h2>
-<a href= https://github.com/Kousik1234/?tab=repositories&q=&type=&language=javascript&sort= > <img width="65" height="40"' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
-<a href= https://github.com/Kousik1234/?tab=repositories&q=&type=&language=c&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-<a href= https://github.com/Kousik1234/?tab=repositories&q=&type=&language=java&sort= > <img width="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a>
-<a href= https://github.com/Kousik1234/?tab=repositories&q=&type=&language=spring&sort= > <img wwidth="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a>
-<a href= https://github.com/Kousik1234/?tab=repositories&q=&type=&language=mysql&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/Kousik1234/?tab=repositories&q=&type=&language=html&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a>
-<a href= https://github.com/Kousik1234/?tab=repositories&q=&type=&language=css&sort= > <img width="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a>
-<a href= https://github.com/Kousik1234/?tab=repositories&q=&type=&language=github&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg'> </a>
-<a href= https://github.com/Kousik1234/?tab=repositories&q=&type=&language=git&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
-<a href= https://github.com/Kousik1234/?tab=repositories&q=&type=&language=aws&sort= > <img width="65" height="40" src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/Kousik1234/?tab=repositories&q=&type=&language=bootstrap&sort= > <imgwidth="65" height="40"src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a>
+<!----------------------------------- Tech Stack Section ------------------------------------>
+
+### <h2>💻 Tech Stack & Languages 💻<img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 34px height=34px align="center"></h2>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+<img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+<br><br>
+
+
+### <h2>🚀 Libraries & Frameworks 🚀</h2>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Spring&logo=spring&color=852100&label=" alt="SPRING"/></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=SpringBoot&logo=springboot&color=00d09c&label=" alt="SpringBoot" /></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=Hibernate&logo=hibernate&color=000030&label=" alt="Hibernate"/></a>
+<a><img src="https://img.shields.io/static/v1?style=for-the-badge&message=JDBC&logo=JDBC&color=400030&label=" alt="JDBC"/></a><br><br>
+
+### <h2>💻 Databases 💻</h2>
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=blue)<br><br>
 
 
 <h2 aling="left"> Connect with me  <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="40px" height="40px" align="center"> </h2>
