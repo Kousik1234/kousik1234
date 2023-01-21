@@ -62,8 +62,9 @@
 
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Kousik1234&show_icons=true&theme=merko" alt="Kousik's Language stats" /> |  <img align="right" src="https://activity-graph.herokuapp.com/graph?username=Kousik1234&theme=merko&hide_border=true&area=true" height="10%" width="100%"/> |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=Kousik1234&show_icons=true&theme=cobalt" alt="Kousik's Language stats" /> |  <img align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=Kousik1234&theme=synthwave&hide_border=true&area=true" height="10%" width="100%"/> |
 
+<div aling="left">
 
 
 
