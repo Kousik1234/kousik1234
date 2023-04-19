@@ -15,7 +15,7 @@
 
 
 - 🌐 Checkout my <a href="https://kousik1234.github.io/Kousik-Portfolio/">Portfolio</a>
-- 📮 Checkout my <a href="https://drive.google.com/file/d/1TSFn9zFxFaV-C5_wXwhc9kxbMlSlJ0gO/view?usp=sharing">Resume</a>
+- 📮 Checkout my <a href="https://drive.google.com/file/d/1b6jrTy-TqttcFYI512e0PcU7KWtEfUdS/view?usp=sharing">Resume</a>
 - 💌 How to reach me [Email](mailto:kousikmanik8945@gmail.com) :)
 - 📖 I’m currently learning SpringBoot
 
